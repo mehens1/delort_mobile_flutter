@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342006480739",
+    "project_id": "delorts-d0f1b",
+    "storage_bucket": "delorts-d0f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342006480739:android:62ab1f37671575e3c91d56",
+        "android_client_info": {
+          "package_name": "com.example.delorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342006480739-qkf5b7q1spmf2apkdspinogbigtkfpsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delorts",
+            "certificate_hash": "6f7d028b35a82480fd7c4e7efc24323714b1e18f"
+          }
+        },
+        {
+          "client_id": "342006480739-sal5quegu9074ccfup55j4lo2g02hfl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAawe0wVpy_CuuFapSbs-rSrJSAQP6IuOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342006480739-sal5quegu9074ccfup55j4lo2g02hfl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
